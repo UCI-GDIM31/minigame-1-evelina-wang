@@ -6,7 +6,7 @@ Hello world!
 grass blocks place for player to find the coin
 coin is the object that player need to get to finish the game
 hazards need to stop player get the coin and increase the diffcult of game
-I set some grass block surround the coin that can make coin diffcult to find
+I set some grass block surround the coin that can make coin diffcult to find.
 ## Open-Source Assets
 - Starter first-person assets: https://assetstore.unity.com/packages/essentials/starter-assets-firstperson-updates-in-new-charactercontroller-pa-196525
 - Low poly platformer kit: https://assetstore.unity.com/packages/3d/environments/lowpoly-platformer-kit-free-modular-stylized-blocks-319018 
